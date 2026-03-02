@@ -1,4 +1,4 @@
-# mac_int8
+# igemm_int8
 
 Integer GEMM (General Matrix Multiply) benchmark for Bouffalo SDK.
 
